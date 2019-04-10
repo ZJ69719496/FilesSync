@@ -9,13 +9,13 @@
   
 项目中使用的图标是从网络 收集的（如有侵权，请联系我 进行修改 QQ：912259791）  (可根据需求定制软件) 
 
-![服务端](https://github.com/ZJ69719496/FilesAsync/blob/master/s.png)  
+![服务端](https://github.com/ZJ69719496/FilesSync/blob/master/s.png)  
 
 
-![客户端](https://github.com/ZJ69719496/FilesAsync/blob/master/c.png)  
+![客户端](https://github.com/ZJ69719496/FilesSync/blob/master/c.png)  
 
 
-![客户端手动上传](https://github.com/ZJ69719496/FilesAsync/blob/master/m.png)  
+![客户端手动上传](https://github.com/ZJ69719496/FilesSync/blob/master/m.png)  
 
 
-![客户端上传日志](https://github.com/ZJ69719496/FilesAsync/blob/master/r.png)  
+![客户端上传日志](https://github.com/ZJ69719496/FilesSync/blob/master/r.png)  
